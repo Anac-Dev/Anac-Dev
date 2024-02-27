@@ -3,8 +3,6 @@
 ### Olá! Eu sou a Ana Carolina Matos. 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-matos79451/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aninha_priincess/)
-
 ![Anac-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Anac-Dev&show_icons=true&theme=dracula)
 
 ## Tecnologias que estou aprendendo :
